@@ -1,0 +1,80 @@
+body {
+    font-family: "Permanent Marker",sans-serif;
+    background-image: url("./images/background/5197441.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color:white;
+}
+
+header {
+    background-color: black;
+    color:white;
+}
+
+
+.navbar {
+    background-color: #181818;
+
+}
+
+#cabecalho .nav-pills .nav-link, .navbar-brand,.navbar-brand:hover,
+.nav-link.active:hover {
+    color: white;
+}
+
+#cabecalho .nav .nav-link.active
+{
+    background-color: white;
+    color: black;
+}
+
+
+.navbar-toggler, .card-body a {
+    background-color: #12944a;
+    border-color:#12944a;
+}
+
+.card-body a:hover {
+    background-color: #181818;
+    border-color: #181818;
+    
+}
+
+.tituloSecao {
+    font-family: "Permanent Marker";
+    text-align: center;
+    font-size: 30px;
+}
+
+
+.navmenu .nav-link.active, #cabecalho .nav-pills .nav-link.active{
+    background-color: #12944a;
+    color: white;
+}
+
+.navmenu .nav-link:hover {
+    color:white;
+}
+
+.social-links li {
+    list-style: none;
+    display: inline;
+}
+
+.social-links a{
+text-decoration: none;
+}
+
+
+p {
+    font-family: "Roboto",sans-serif;
+}
+
+.text-colored{
+    color:white;
+}
+
+#sobrearadicalstore .carousel .carousel-inner .carousel-item img {
+    height: 70vh;
+}
